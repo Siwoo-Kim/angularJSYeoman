@@ -1,0 +1,15 @@
+
+앵귤러?
+SPA(Single Page Application)?
+
+앵귤러 개발 도구?
+        yeoman?
+        NodeJS 와 npm?
+        git?
+
+        요맨?
+            yo?
+            bower?
+            grunt?
+            karma?
+                - npm install -g generator-karma
